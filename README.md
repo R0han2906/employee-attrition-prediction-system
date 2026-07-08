@@ -39,6 +39,7 @@ SHAP Explanation Engine
 | Precision | `0.43` |
 | Decision threshold | `0.20 - tuned to prioritize recall over default 0.5 ` |
 
+
 > Threshold was tuned away from the default 0.5 because false negatives (missing an employee who will actually leave) are more costly to the business than false positives. The model was optimized to balance recall and precision while maintaining strong ranking performance.
 
 
