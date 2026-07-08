@@ -81,14 +81,14 @@ cd ibm-hr
 Then follow the backend and frontend setup guides linked above — both need to run simultaneously (backend on `:8000`, frontend served or opened separately).
 
 Engineering Highlights
-✅ End-to-end ML pipeline (training → tuning → deployment)
-✅ Elastic Net regularization with hyperparameter tuning
-✅ Business-driven threshold optimization
-✅ SHAP-based model explainability
-✅ Modular FastAPI backend architecture
-✅ Clean separation of routes, services, and model logic
-✅ Frontend–Backend integration via Fetch API
-✅ Reproducible environment with pinned dependencies
+- [ ] End-to-end ML pipeline (training → tuning → deployment)
+- [ ] Elastic Net regularization with hyperparameter tuning
+- [ ] Business-driven threshold optimization
+- [ ] SHAP-based model explainability
+- [ ] Modular FastAPI backend architecture
+- [ ] Clean separation of routes, services, and model logic
+- [ ] Frontend–Backend integration via Fetch API
+- [ ] Reproducible environment with pinned dependencies
 
 ## Future Improvements
 
