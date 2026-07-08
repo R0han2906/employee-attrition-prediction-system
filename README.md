@@ -80,7 +80,7 @@ cd ibm-hr
 
 Then follow the backend and frontend setup guides linked above — both need to run simultaneously (backend on `:8000`, frontend served or opened separately).
 
-Engineering Highlights
+## Engineering Highlights
 - [ ] End-to-end ML pipeline (training → tuning → deployment)
 - [ ] Elastic Net regularization with hyperparameter tuning
 - [ ] Business-driven threshold optimization
