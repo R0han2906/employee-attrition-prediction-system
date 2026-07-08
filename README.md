@@ -3,6 +3,8 @@
 An end-to-end machine learning application that predicts employee attrition risk and explains each prediction using SHAP interpretability. Built with a FastAPI backend and a lightweight HTML/CSS/JS frontend.
 
 <!-- [FILL IN: Live demo link] · [FILL IN: Demo video/GIF] -->
+##Live demo link working :
+https://deluxe-liger-702d2f.netlify.app/
 
 ---
 
