@@ -1,0 +1,22 @@
+# Virtual environment
+backend-env/
+venv/
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model cache (if any temp files)
+*.joblib
